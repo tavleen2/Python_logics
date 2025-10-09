@@ -18,4 +18,4 @@ elif(args.operation == "mul"):
     print(f"The result is : {args.num1 * args.num2}")
 else:
     print("Invalid operation!!")
-
+    
