@@ -12,4 +12,4 @@ def hello_world():
     else:
         return render_template("contact.html")
 
-app.run(port= 8000, debug=True)
+app.run(debug=True)
